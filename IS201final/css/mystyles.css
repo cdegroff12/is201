@@ -1,0 +1,23 @@
+    body{
+        font-family: 'Times New Roman', Times, serif;
+        color: black;
+    }
+    
+    a{
+        color: black;
+    }
+
+    h1{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgb(144, 12, 12);
+    }
+
+    img{
+        display: block;
+        border: black solid 3px;
+        padding: 3px;
+        margin: 0;
+        float:left;
+        margin-right:20px;
+        max-width: 100%;
+    }
